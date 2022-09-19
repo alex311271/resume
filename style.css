@@ -8,11 +8,22 @@ ol{
     list-style-type: disc;
 }
 figure{
-    float: left;
-    padding: 15px;
-    border: 5px solid white;
+    width: 200px;
+    margin: 40px;
 }
 span{
     font-weight: bold;
     font-style: italic;
+}
+.main-data{
+    width: 1000px;
+    border: 5px solid white;
+    margin: 20px 10px;
+
+}
+
+.data{
+    display: block;
+    box-sizing: border-box;
+    width: 600px;
 }
